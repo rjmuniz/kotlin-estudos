@@ -1,6 +1,5 @@
-import br.org.tabajara.bytebank.modelo.FuncionarioAdmin
-import br.org.tabajara.bytebank.modelo.Gerente
-import br.org.tabajara.bytebank.modelo.SistemaInterno
+import br.org.tabajara.bytebank.modelos.Gerente
+import br.org.tabajara.bytebank.modelos.SistemaInterno
 import junit.framework.TestCase
 import org.junit.Test
 

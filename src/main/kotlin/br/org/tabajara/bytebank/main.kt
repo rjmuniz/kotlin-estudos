@@ -1,10 +1,10 @@
 package br.org.tabajara.bytebank
 
-import br.org.tabajara.bytebank.teste.*
+import br.org.tabajara.bytebank.testes.*
 
 
 fun main() {
-   testaListas2()
+   testaParadigmaFuncional()
 }
 
 
